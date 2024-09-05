@@ -1,4 +1,4 @@
-Binary Converter Program
+**Binary Converter Program**
 
 This C++ program performs multiple of number base conversions:
 - Convert from binary to decimal
